@@ -13,7 +13,6 @@
 - Cross validation
 - Parameter selection
 	- Using whole data
-- Log-Likelihood as objective function
 - Delta Log-Likelihood
 	- Null model
 - Post-spike kernel
