@@ -22,4 +22,5 @@
 - Select number of parameters according to the number of data
 - Intialize kernel parameters with values other than zero
 - Using parallel implementation
+- Using object-oriented programming instead of using the `make profile` function
 - Transfer/reduced to a problem can be learned using `Neural Network` frameworks
