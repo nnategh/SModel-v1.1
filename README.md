@@ -8,7 +8,7 @@ To execute the code, run the `main.m` script file. The call hierarchy/tree of ma
 
 ![Call hierarchy](assets/call-tree.svg "Call hierarchy")
 
-The following figure shows the dependancy network of the implemented functions (except plotting functions) in the project.
+The following figure (you can zoom in for more details) shows the dependency network of the implemented functions (except plotting functions) in the project.
 
 ![Dependancy network](assets/depex.svg "Dependancy network")
 
