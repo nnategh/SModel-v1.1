@@ -60,12 +60,6 @@ function main()
             % S-Model
             smodel(session, channel, unit);
 
-            % F-Model
-            % fmodel(session, channel, unit);
-
-            % A-Model
-            % amodel(session, channel, unit);
-
             % Plot some results
             plot_results(session, channel, unit)
             
