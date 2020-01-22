@@ -46,6 +46,7 @@ function main()
     % start main timer
     main_timer = tic();
     
+    % get neuron ids
     ids = get_ids();
     num_neurons = numel(ids);
 
@@ -60,7 +61,7 @@ function main()
             % S-Model
             smodel(session, channel, unit);
 
-            % Plot some results
+            % plot some results
             plot_results(session, channel, unit)
             
             close('all');

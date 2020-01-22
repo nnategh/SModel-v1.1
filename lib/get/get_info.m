@@ -57,7 +57,7 @@ function info = get_info()
     num_folds = 1;
     pct_test = 0.35; % todo: pct_validation
     pct_train = 0.35;
-    bases_iterations = 100; % for each `true` and `shuffle`
+    bases_iterations = 100; % for each `true` and `shuffle/control`
     delay_knots = [1 2 3 4 6 8 15 22 29 36 43 50 57 64 71 78 92 106 120 134 148 162 176];
     % Plotting
     plotting = struct(...

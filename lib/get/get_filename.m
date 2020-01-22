@@ -3,6 +3,12 @@ function filename = get_filename(session, channel, unit)
     %
     % Parameters
     % ----------
+    % - session: scalar
+    %   Session number with format: yymmdd
+    % - channel: scalar
+    %   Channel number
+    % - unit: scalar
+    %   Unit number
     %
     % Returns
     % -------

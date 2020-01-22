@@ -7,6 +7,8 @@ function data = load_data(session, channel, unit)
     %   Session number with format: yymmdd
     % - channel: scalar
     %   Channel number
+    % - unit: scalar
+    %   Unit number
     %
     % Returns
     % -------

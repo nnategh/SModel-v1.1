@@ -4,7 +4,7 @@ function ids = get_ids()
     % Returns
     % -------
     % - id: cell array of char vectors
-    %   Neuron's IDs saved on the `data` folder
+    %   Filenames saved on the `data` folder
 
     info = get_info();
     

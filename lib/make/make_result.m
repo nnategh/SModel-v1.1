@@ -7,6 +7,8 @@ function make_result(session, channel, unit)
     %   Session number with format: yymmdd
     % - channel: scalar
     %   Channel number
+    % - unit: scalar
+    %   Unit number
 
     info = get_info();
     results_folder = info.folders.results;

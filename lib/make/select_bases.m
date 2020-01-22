@@ -7,6 +7,8 @@ function select_bases(session, channel, unit)
     %   Session number with format: yymmdd
     % - channel: scalar
     %   Channel number
+    % - unit: scalar
+    %   Unit number
 
     info = get_info();
     times = info.times;
@@ -86,7 +88,6 @@ function trials = make_trials(session, channel, unit)
     % - `set_of_trials` -> `trials`
     % - `cross_indices` -> `val_idx`
     % - remove `set` field
-    % - why just use `1` index
     trials.trials = [
         set_of_trials.train_indices(1).set, ...
         set_of_trials.cross_indices(1).set, ...
@@ -159,7 +160,7 @@ function map = make_map(...
 
     % make the map
     map = nan(num_time_bases, num_delay_bases, num_iterations+num_iterations);
-    parfor ind_t = 1:num_time_bases
+    for ind_t = 1:num_time_bases
         for ind_d = 1:num_delay_bases
             x = nan(1, num_iterations + num_iterations);
             idx = time_bases(ind_t, :) > 0;

@@ -5,6 +5,12 @@ function fit_model(profile, session, channel, unit, fold)
     % ----------
     % - profile: struct
     %   Neural profile
+    % - session: scalar
+    %   Session number with format: yymmdd
+    % - channel: scalar
+    %   Channel number
+    % - unit: scalar
+    %   Unit number
     %
     % - fold: scalar
     %   Fold number

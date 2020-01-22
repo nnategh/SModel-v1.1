@@ -7,9 +7,11 @@ function smodel(session, channel, unit)
     %   Session number with format: yymmdd
     % - channel: scalar
     %   Channel number
+    % - unit: scalar
+    %   Unit number
 
     fprintf('===== S-Model =====\n\n');
-    main_timer = tic();
+    main_timer = tic(); % <main_timer>
 
     % Select bases
     method_timer = tic();
@@ -36,5 +38,5 @@ function smodel(session, channel, unit)
     toc(method_timer);
 
     fprintf('\n\n');
-    toc(main_timer);
+    toc(main_timer); % </main_timer>
 end

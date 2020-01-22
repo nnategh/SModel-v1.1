@@ -8,10 +8,10 @@ function bases = make_bases()
 
     info = get_info();
     
-    % stimulus bases
+    % bases
     % - delay
     delay_values = 1:info.num_delays;
-    delay_delta = 2 * info.probe_time_resolution; % todo: why is twice than `7` ms
+    delay_delta = 2 * info.probe_time_resolution;
     delay_knots = make_knots(delay_values, delay_delta);
     delay_bases = make_bsplie_bases(delay_values, delay_knots);
 

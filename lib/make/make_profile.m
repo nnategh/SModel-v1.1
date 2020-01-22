@@ -7,6 +7,8 @@ function make_profile(session, channel, unit)
     %   Session number with format: yymmdd
     % - channel: scalar
     %   Channel number
+    % - unit: scalar
+    %   Unit number
 
     info = get_info();
     
