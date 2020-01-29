@@ -12,5 +12,17 @@ The following figure (you can zoom in for more details) shows the dependency net
 
 ![Dependancy network](assets/depex.svg "Dependancy network")
 
+## Data flow
+> All the following figures plotted for the neuron id `1505111501` and its receptive field proble location (probe index `52`). For more details see [1].
+
+![Data flow](assets/data-flow.svg "Data flow")
+![Stimuli](assets/stimuli.png "Stimuli")
+![Responses](assets/responses.png "Responses")
+![Bases](assets/bases.png "Bases")
+![Profile](assets/profile.png "Profile")
+![Kernel](assets/kernel.png "Kernel")
+![Prediction](assets/prediction.png "Prediction")
+
+
 ## References
-Niknam, K., Akbarian, A., Clark, K., Zamani, Y., Noudoost, B., & Nategh, N. (2019). Characterizing and dissociating multiple time-varying modulatory computations influencing neuronal activity. PLoS computational biology, 15(9), e1007275. [View Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007275)
+[1] Niknam, K., Akbarian, A., Clark, K., Zamani, Y., Noudoost, B., & Nategh, N. (2019). Characterizing and dissociating multiple time-varying modulatory computations influencing neuronal activity. PLoS computational biology, 15(9), e1007275. [View Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007275)
