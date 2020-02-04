@@ -6,22 +6,23 @@ The sparse variable generalized linear model framework, termed the `SVGLM`, whic
 ## Functional dependency
 To execute the code, run the `main.m` script file. The call hierarchy/tree of main functions is shown in the following figure.
 
-![Call hierarchy](assets/call-tree.svg "Call hierarchy")
+![Call hierarchy](assets/figures/call-tree.svg "Call hierarchy")
 
 The following figure (you can zoom in for more details) shows the dependency network of the implemented functions (except plotting functions) in the project.
 
-![Dependancy network](assets/depex.svg "Dependancy network")
+![Dependancy network](assets/figures/depex.svg "Dependancy network")
 
 ## Data flow
 > All the following figures plotted for the neuron id `1505111501` and its receptive field proble location (probe index `52`). For more details see [1].
 
-![Data flow](assets/data-flow.svg "Data flow")
-![Stimuli](assets/stimuli.png "Stimuli")
-![Responses](assets/responses.png "Responses")
-![Bases](assets/bases.png "Bases")
-![Profile](assets/profile.png "Profile")
-![Kernel](assets/kernel.png "Kernel")
-![Prediction](assets/prediction.png "Prediction")
+![Data flow](assets/figures/data-flow.svg "Data flow")
+![Behavior](assets/figures/behavior.gif "Behavior")
+![Stimuli](assets/figures/stimuli.png "Stimuli")
+![Responses](assets/figures/responses.png "Responses")
+![Bases](assets/figures/bases.png "Bases")
+![Profile](assets/figures/profile.png "Profile")
+![Kernel](assets/figures/kernel.png "Kernel")
+![Prediction](assets/figures/prediction.png "Prediction")
 
 
 ## References
