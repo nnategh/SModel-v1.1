@@ -16,7 +16,15 @@ The following figure (you can zoom in for more details) shows the dependency net
 > All the following figures plotted for the neuron id `1505111501` and its receptive field proble location (probe index `52`). For more details see [1].
 
 ![Data flow](assets/figures/data-flow.svg "Data flow")
+
+### Stimuli
+#### Stimulus
+![Stimulus](assets/figures/stimulus.gif "Stimulus")
+#### Behavior
 ![Behavior](assets/figures/behavior.gif "Behavior")
+#### Eye trace
+![Eye trace](assets/figures/eye-trace.gif "Eye trace")
+#### Data
 ![Stimuli](assets/figures/stimuli.png "Stimuli")
 ![Responses](assets/figures/responses.png "Responses")
 ![Bases](assets/figures/bases.png "Bases")
