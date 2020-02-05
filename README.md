@@ -18,18 +18,28 @@ The following figure (you can zoom in for more details) shows the dependency net
 ![Data flow](assets/figures/data-flow.svg "Data flow")
 
 ### Stimuli
+#### Grid
+![Grid](assets/figures/grid.png "Grid")
 #### Stimulus
 ![Stimulus](assets/figures/stimulus.gif "Stimulus")
 #### Behavior
 ![Behavior](assets/figures/behavior.gif "Behavior")
 #### Eye trace
 ![Eye trace](assets/figures/eye-trace.gif "Eye trace")
-#### Data
-![Stimuli](assets/figures/stimuli.png "Stimuli")
+<!-- #### Data
+![Stimuli](assets/figures/stimuli.png "Stimuli") -->
+### Responses
 ![Responses](assets/figures/responses.png "Responses")
-![Bases](assets/figures/bases.png "Bases")
+### Bases
+#### Spatiotemporal unit
+![Bases cubes](assets/figures/bases-cubes.png "Bases cube")
+#### Histograms
+![Bases hists](assets/figures/bases-hists.png "Bases hists")
+#### Profile
 ![Profile](assets/figures/profile.png "Profile")
+#### Kernel
 ![Kernel](assets/figures/kernel.png "Kernel")
+#### Prediction
 ![Prediction](assets/figures/prediction.png "Prediction")
 
 
