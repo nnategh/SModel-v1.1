@@ -35,11 +35,16 @@ The following figure (you can zoom in for more details) shows the dependency net
 ![Bases cubes](assets/figures/bases-cubes.png "Bases cube")
 #### Histograms
 ![Bases hists](assets/figures/bases-hists.png "Bases hists")
-#### Profile
-![Profile](assets/figures/profile.png "Profile")
-#### Kernel
+### Profile
+#### Map
+![Profile map](assets/figures/profile-map.png "Profile map")
+#### Basis
+![Profile basis](assets/figures/profile-basis.png "Profile basis")
+#### Interpolation
+![Profile interpolation](assets/figures/profile-interpolation.png "Profile interpolation")
+### Kernel
 ![Kernel](assets/figures/kernel.png "Kernel")
-#### Prediction
+### Prediction
 ![Prediction](assets/figures/prediction.png "Prediction")
 
 
