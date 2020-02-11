@@ -15,7 +15,7 @@ The following figure (you can zoom in for more details) shows the dependency net
 ## Data flow
 > To see more details about the data flow, please click on this [link](DATAFLOW.md).
 
-[![Data flow](assets/figures/data-flow.svg "Data flow")](DATAFLOW.md)
+[![Data flow](assets/figures/data-flow.png "Data flow")](DATAFLOW.md)
 
 
 
