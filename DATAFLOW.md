@@ -24,8 +24,7 @@
 ## Profile
 ### Map
 ![Profile map](assets/figures/profile-map.png "Profile map")
-### Basis
-![Profile basis](assets/figures/profile-basis.png "Profile basis")
+![Profile bases](assets/figures/profile-bases.png "Profile bases")
 ### Interpolation
 ![Profile interpolation](assets/figures/profile-interpolation.png "Profile interpolation")
 ## Kernels
