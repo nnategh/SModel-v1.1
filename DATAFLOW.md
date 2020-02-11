@@ -1,7 +1,7 @@
 # Data flow
 > All the following figures plotted for the neuron id `1505111501` and its receptive field proble location (probe index `52`). For more details see [1].
 
-![Data flow](assets/figures/data-flow.png "Data flow")
+[![Data flow](assets/figures/data-flow.svg "Data flow")](README.md)
 
 ## Stimuli
 ### Grid

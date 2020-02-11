@@ -15,10 +15,7 @@ The following figure (you can zoom in for more details) shows the dependency net
 ## Data flow
 > To see more details about the data flow, please click on this [link](DATAFLOW.md).
 
-[![Data flow](assets/figures/data-flow.png "Data flow")](DATAFLOW.md)
-
-
-
+[![Data flow](assets/figures/data-flow.svg "Data flow")](DATAFLOW.md)
 
 ## References
 [1] Niknam, K., Akbarian, A., Clark, K., Zamani, Y., Noudoost, B., & Nategh, N. (2019). Characterizing and dissociating multiple time-varying modulatory computations influencing neuronal activity. PLoS computational biology, 15(9), e1007275. [View Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007275)
