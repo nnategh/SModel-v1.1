@@ -29,7 +29,7 @@
 ### Interpolation
 ![Profile interpolation](assets/figures/profile-interpolation.png "Profile interpolation")
 ## Kernel
-![Kernel](assets/figures/kernel.png "Kernel")
+![Kernels](assets/figures/kernels.png "Kernels")
 ## Prediction
 ![Prediction](assets/figures/prediction.png "Prediction")
 
