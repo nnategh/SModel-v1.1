@@ -28,10 +28,10 @@
 ![Profile basis](assets/figures/profile-basis.png "Profile basis")
 ### Interpolation
 ![Profile interpolation](assets/figures/profile-interpolation.png "Profile interpolation")
-## Kernel
+## Kernels
 ![Kernels](assets/figures/kernels.png "Kernels")
-## Prediction
-![Prediction](assets/figures/prediction.png "Prediction")
+## Predictions
+![Predictions](assets/figures/predictions.png "Predictions")
 
 
 ## References
