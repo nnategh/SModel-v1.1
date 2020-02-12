@@ -17,10 +17,7 @@
 ## Responses
 ![Responses](assets/figures/responses.png "Responses")
 ## Bases
-### Spatiotemporal unit
-![Bases cubes](assets/figures/bases-cubes.png "Bases cube")
-### Histograms
-![Bases hists](assets/figures/bases-hists.png "Bases hists")
+![Bases](assets/figures/bases.png "Bases")
 ## Profile
 ### Map
 ![Profile map](assets/figures/profile-map.png "Profile map")
