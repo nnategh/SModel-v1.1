@@ -3,27 +3,16 @@
 
 [![Data flow](assets/figures/data-flow.svg "Data flow")](README.md)
 
-## Stimuli
-### Grid
+## Paradigm, Stimuli, Responses
+![Paradigm, Stimuli, Responses](assets/figures/paradigm-stim-resp.gif "Paradigm, Stimuli, Responses")
 ![Grid](assets/figures/grid.png "Grid")
-### Stimulus
 ![Stimulus](assets/figures/stimulus.gif "Stimulus")
-### Behavior
 ![Behavior](assets/figures/behavior.gif "Behavior")
-### Eye trace
 ![Eye trace](assets/figures/eye-trace.gif "Eye trace")
-<!-- #### Data
-![Stimuli](assets/figures/stimuli.png "Stimuli") -->
-## Responses
-![Responses](assets/figures/responses.png "Responses")
 ## Bases
 ![Bases](assets/figures/bases.png "Bases")
 ## Profile
-### Map
-![Profile map](assets/figures/profile-map.png "Profile map")
 ![Profile bases](assets/figures/profile-bases.png "Profile bases")
-### Interpolation
-![Profile interpolation](assets/figures/profile-interpolation.png "Profile interpolation")
 ## Kernels
 ![Kernels](assets/figures/kernels.png "Kernels")
 ## Predictions
