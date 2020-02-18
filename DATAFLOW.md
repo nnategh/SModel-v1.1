@@ -9,9 +9,8 @@
 ![Stimulus](assets/figures/stimulus.gif "Stimulus")
 ![Behavior](assets/figures/behavior.gif "Behavior")
 ![Eye trace](assets/figures/eye-trace.gif "Eye trace")
-## Bases
+## Bases and Profile
 ![Bases](assets/figures/bases.png "Bases")
-## Profile
 ![Profile bases](assets/figures/profile-bases.png "Profile bases")
 ## Kernels
 ![Kernels](assets/figures/kernels.png "Kernels")
