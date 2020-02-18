@@ -15,6 +15,8 @@
 ### Eye trace
 ![Eye trace](assets/figures/eye-trace.gif "Eye trace")
 ## Stimuli and Responses
+![Stimuli](assets/figures/stimuli.png "Stimuli")
+![Responses](assets/figures/responses.png "Responses")
 ## Bases and Profile
 ![Bases](assets/figures/bases.png "Bases")
 ![Profile bases](assets/figures/profile-bases.png "Profile bases")
