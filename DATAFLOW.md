@@ -5,9 +5,13 @@
 
 ## Paradigm, Stimuli, Responses
 ![Paradigm, Stimuli, Responses](assets/figures/paradigm-stim-resp.gif "Paradigm, Stimuli, Responses")
+### Grid
 ![Grid](assets/figures/grid.png "Grid")
+### Stimulus
 ![Stimulus](assets/figures/stimulus.gif "Stimulus")
+### Behavior
 ![Behavior](assets/figures/behavior.gif "Behavior")
+### Eye trace
 ![Eye trace](assets/figures/eye-trace.gif "Eye trace")
 ## Bases and Profile
 ![Bases](assets/figures/bases.png "Bases")
