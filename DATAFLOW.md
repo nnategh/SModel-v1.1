@@ -3,8 +3,9 @@
 
 [![Data flow](assets/figures/data-flow.svg "Data flow")](README.md)
 
-## Paradigm, Stimuli, Responses
-![Paradigm, Stimuli, Responses](assets/figures/paradigm-stim-resp.gif "Paradigm, Stimuli, Responses")
+## Experiment
+### Paradigm
+![Paradigm](assets/figures/paradigm.png "Paradigm")
 ### Grid
 ![Grid](assets/figures/grid.png "Grid")
 ### Stimulus
@@ -13,6 +14,7 @@
 ![Behavior](assets/figures/behavior.gif "Behavior")
 ### Eye trace
 ![Eye trace](assets/figures/eye-trace.gif "Eye trace")
+## Stimuli and Responses
 ## Bases and Profile
 ![Bases](assets/figures/bases.png "Bases")
 ![Profile bases](assets/figures/profile-bases.png "Profile bases")
