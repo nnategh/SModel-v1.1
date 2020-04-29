@@ -48,7 +48,7 @@ function info = get_info()
     
     width = 9;
     height = 9;
-    times = -540:+540;
+    times = -540:+540; %neda:-500:500
     fix = -450:0;
     sac = 0:150;
     num_times = length(times);
