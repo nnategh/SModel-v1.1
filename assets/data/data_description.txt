@@ -1,0 +1,17 @@
+Each data file including the neural data is formatted as 
+
+<ddddddccuu.mat>
+where "dddddd" stands for the date, "cc" represents the channel on the array electrode and "uu" represents the number of the isolated unit.
+
+Each file includes:
+cond		: 	NX1 (unit8)  	including the condition of each trial where N is the number of the recorded trials. 
+								Condition can be between 1 and 81. At each condition the visual probes are presented at 
+								a psudorandom order. The order of visual probes is the same across trials in the same 									condition and different from other conditions. 
+resp 		: 	NXT (logical)	including the spikes where T represents the length of trials and value 1 indicates a spike event. the 
+								trials are aligned to the saccade onset at t=1000ms.
+stim		: 	NXT (unit8)  	sequence of the presented probes across N trials. stim takes values from 1 to 81 representing 
+								different probe locations in a 9 by 9 grid locations. Similar to rest, each trial is aligned 								to the saccade onset at t=1000 ms. Use [x,y] = ind2sub([9,9],stimcode(tr,t)) to
+								find location (x,y) on the 9 by 9 coordinates that was presented at trial 'tr' and time 't'.
+
+
+								
